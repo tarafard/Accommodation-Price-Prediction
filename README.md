@@ -35,6 +35,7 @@ This project aims to predict Airbnb listing prices in New York City using machin
 - Encoded categorical features (`neighbourhood_group`, `neighbourhood`, `room_type`) using One-Hot Encoding.
 - Scaled numerical features using `StandardScaler`.
 
+---
 
 ### Code Structure
 - **Notebook**: Contains the full analysis, visualizations, and model training.
